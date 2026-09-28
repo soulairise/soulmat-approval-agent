@@ -1,0 +1,8 @@
+.venv
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+store/*.sqlite
+output/streamlit.log
+data/_경전원본.json
